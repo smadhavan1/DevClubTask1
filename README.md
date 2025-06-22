@@ -11,20 +11,20 @@ It includes a colourful UI for doing these operations.
 
 ## How do I use this?
 
-Have a task you need to do?
+Have a task you need to do?  
 Enter the task in the input box and press Add.
 
-Completed the task?
+Completed the task?  
 Well done! you can mark it as done.
 
-An important task?
-You can also pin it to the top.
+An important task?  
+You can also pin it to the top.  
 Make sure that you complete it!
 
-Need to remove a task?
+Need to remove a task?  
 Sure, go ahead and delete it.
 
-Misspelt something?
+Misspelt something?  
 Don't worry, go ahead and edit it.
 
 ## Screenshots
