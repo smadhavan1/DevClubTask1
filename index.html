@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!--For viewing on different screen sizes.-->
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="styles.css"><!--Linking the CSS file here.-->
+</head>
+<body>
+  <div id="header">
+    <h1>To-Do List</h1>
+  </div>
+
+  <input type="text" id="task_input" placeholder="Enter task">
+  <button class="btn-add">Add</button>
+  <select id="filter_dropdown"><!--The dropdown menu element.-->
+    <!--Options are below-->
+    <option value="all">All</option>
+    <option value="completed">Completed</option>
+    <option value="incomplete">Incomplete</option>
+  </select>
+
+  <ul id="list_container"></ul><!--This contains the task list.-->
+
+  <script src="main.js"></script><!--Linking the JavaScript file here.-->
+</body>
+</html>
