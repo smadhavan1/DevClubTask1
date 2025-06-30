@@ -1,5 +1,3 @@
-Task submission for Developers Club recruitment by S Madhavan (CS24B1055).
-
 # To Do List Manager
 
 This is a to-do list manager.
